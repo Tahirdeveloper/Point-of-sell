@@ -1,0 +1,129 @@
+body {
+    background-color: #eceeef;
+}
+
+.container1 {
+    width: 1063px;
+    margin: 0 200px auto;
+    background-color: #eceeef;
+}
+
+.top-bar {
+    background: rgb(62, 7, 94);
+    display: inline-block;
+    display: flex;
+    color: white;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.title {
+    margin-right: 811px;
+    padding-left: 10px;
+}
+
+.bed-crumb {
+    color: white;
+}
+
+
+/* body{
+    margin-top:20px;
+    background:#eee;
+} */
+
+.ui-w-40 {
+    width: 40px !important;
+    height: auto;
+}
+
+.card {
+    box-shadow: 0 1px 15px 1px rgba(52, 40, 104, .08);
+}
+
+.ui-product-color {
+    display: inline-block;
+    overflow: hidden;
+    margin: .144em;
+    width: .875rem;
+    height: .875rem;
+    border-radius: 10rem;
+    -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15) inset;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15) inset;
+    vertical-align: middle;
+}
+
+.hr2 {
+    width: 154px;
+    /* margin-left: 10%; */
+    background: purple;
+    color: purple;
+    margin-top: -2px;
+    margin-bottom: -14px;
+}
+
+.form-control {
+    border: 0px;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+.head {
+    border: 2px solid;
+    background: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    padding: 7px 0 25px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 92px;
+    margin-bottom: 23px;
+}
+
+.head img {
+    height: 104px !important;
+    margin-left: -14px !important;
+    padding-right: 0px !important;
+    margin-top: -8px !important;
+    width: 999px !important;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 15px 0px 15px;
+    line-height: 0;
+    color: rgb(113, 113, 113);
+}
+
+.end-menu {
+    background: rgb(177 178 179);
+    padding-top: 5px;
+}
+
+.action-buttons {
+    position: absolute;
+}
+
+.top {
+    display: none;
+}
+
+.invoice-foot {
+    border: 2px solid black;
+    display: flex;
+    margin-top: 25px;
+    justify-content: space-around;
+    background: rgb(62, 7, 94);
+    color: rgb(0, 153, 255);
+}
+
+.hidden {
+    display: none;
+}
+
+.disable-div {
+    pointer-events: none;
+}

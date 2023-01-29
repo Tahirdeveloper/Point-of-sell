@@ -1,0 +1,12 @@
+{
+    "php.validate.executablePath": "",
+    "php.validate.run": "onType",
+    "phpformatter.additionalExtensions": [
+    
+    ],
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "typescript.format.insertSpaceAfterConstructor": false,
+    "php.validate.enable": false,
+    "npm.autoDetect": "off"
+}
